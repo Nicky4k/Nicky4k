@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nicky4k
 - 👀 I’m interested in Web Development, Front to the Back.
 - 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on PWA's
+- 💞️ I’m looking to collaborate on open-source projects and work remote.
 - 📫 nickysauceofficial@gmail.com
 
 <!---
