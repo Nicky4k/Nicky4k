@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nicky4k
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning Next.js, Node.js
-- 📫 nickysauceofficial@gmail.com
+- 🌷 Training to write quality and clean code
+- 🌱 I’m currently learning Next.js and Node.js
 
 <!---
 Nicky4k/Nicky4k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
