@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicky4k
+- 👋 Hi, I’m Ashwini Gupta @Nicky4k
 - 👀 I’m interested in Front-End Web Development (PWAs)
 - 👨🏻‍💻 Training to write quality and clean code
 - 🌱 I’m currently learning Next.js and Node.js
