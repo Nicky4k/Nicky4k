@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashwini Gupta @Nicky4k
-- 👀 Front-End Web Developer | UI | Progressive Web Apps
+- 👀 Front-end Web Developer | UI | Progressive Web Apps
 - 👨🏻‍💻 Quality and clean code
 - 🌱 I’m currently learning Next.js
 - 🏀 Team Player
