@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ashwini Gupta @Nicky4k
+- 👋 Hi, I’m Ashwini Gupta
 - 👀 Front-end Web Developer | UI | Progressive Web Apps
 - 👨🏻‍💻 Quality and clean code
-- 🌱 I’m currently learning Next.js
 - 🏀 Team Player
+- 🌱 I’m currently learning Next.js
 
 <!---
 Nicky4k/Nicky4k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
