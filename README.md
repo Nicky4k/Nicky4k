@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwini Gupta
 - 👀 Front-end Web Developer | UI | Progressive Web Apps
-- 👨🏻‍💻 Quality and clean code
+- 👨🏻‍💻 Quality & Clean Code
 - 🏀 Team Player
 
 <!---
