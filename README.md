@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ashwini Gupta
-- 👀 Front-end Web Developer, UI, Progressive Web Apps
+- 👀 Front-end Developer | UI 
+- 🔧 JavaScript, React, Redux-Saga, Tests, HTML, CSS
 - 👨🏻‍💻 Quality & Clean Code
 - 🏀 Team Player
 
