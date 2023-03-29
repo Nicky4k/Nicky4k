@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Ashwini Gupta
 - 👀 Front-end Developer
-- 🔧 JavaScript, React, Redux-Saga, Tests, HTML, CSS
+- 🔧 JavaScript, ES6, React, Redux-Saga, Tests, HTML5, CSS3
 - 👨🏻‍💻 Quality, Clean, and DRY Code
 - 🏀 Team Player
 
