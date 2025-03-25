@@ -5,6 +5,7 @@
 - 👋 Hi, I’m Ashwini Gupta
 - 🧢 Front-end Developer
 - 🔧 JavaScript, ES6, React, Next JS, TypeScript, Redux-Saga, Tests, HTML5, CSS3
+- Contributor to Tekion, American Express
 
 
 <!---
